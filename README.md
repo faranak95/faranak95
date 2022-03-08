@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @faranak95
+- 👀 I’m interested in AL and ML.
+- 🌱 I’m currently learning AI and HFL.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me by email: faranak1995@gachon.ac.kr
